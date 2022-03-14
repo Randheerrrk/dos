@@ -1,0 +1,20 @@
+.dos-search {
+    position: absolute;
+    top: 100px;
+    left: 50px;
+}
+
+.dos-display {
+    position: absolute;
+    top: 100px;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+.dos-search .submit-button {
+    margin-top: 10px;
+}
+
